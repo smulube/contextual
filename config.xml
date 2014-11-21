@@ -15,8 +15,6 @@
         Apache Cordova Team
     </author>
 
-    <preference name="phonegap-version" value="3.6.3" />
-
     <content src="index.html" />
     <access origin="*" />
 </widget>
